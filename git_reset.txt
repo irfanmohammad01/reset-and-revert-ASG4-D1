@@ -1,0 +1,8 @@
+>> git reset 
+moves the branch’s HEAD to a specified commit, effectively rewriting history.
+
+
+--hard: Remove commits but keep changes staged.
+
+
+--soft: Remove commits and discard changes entirely.
