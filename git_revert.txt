@@ -1,0 +1,1 @@
+git revert is used to remove the commits from the remote and local repository.
